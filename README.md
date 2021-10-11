@@ -1,2 +1,2 @@
-# pharmi.uz
-Farmatsevtika Instituti rasmiy veb sayti
+Node js
+NodeJsda add and remove blog
